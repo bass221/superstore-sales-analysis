@@ -1,7 +1,7 @@
 # Superstore Sales Analysis
 
 ## Project Overview
-This project explores the Superstore dataset to identify key insights about sales performance, profitability, customer behavior, and regional trends.
+This project explores retail sales data to identify trends in sales, profitability, customer behavior, and regioanal performance using python.
 
 ## Tools Used
 - Python
@@ -24,3 +24,9 @@ This project explores the Superstore dataset to identify key insights about sale
 - Exploratory Data Analysis
 - Data Visualization
 - Business Insight Extraction
+
+# ================================
+# Superstore Sales Analysis
+# Author: Bassirou Sagna
+# Tools: Python, Pandas, Seaborn
+# ================================
